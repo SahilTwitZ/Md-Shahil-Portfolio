@@ -38,11 +38,10 @@ To run this project locally, follow these steps:
 
 1. Navigate to the project directory:
 
-```bash
 cd my-portfolio
 
 
-2.  Open `index.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 

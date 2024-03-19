@@ -1,23 +1,22 @@
 ========== HEADER ==========
 .nav__logo-circle
-R
+S
 
 .nav__logo-name
-Rian Lot.
+Md Shahil.
 
 .nav__title
 Menu
 
 .nav__name
-Rian
+Md Shahil
 
 .nav__link
 Home - About Me - Projects - Contact Me
 
-
 ========== HOME ==========
 .home__name
-Rian Lot
+Md Shahil
 
 .home__social-link
 https://www.instagram.com/

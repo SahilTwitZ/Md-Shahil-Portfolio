@@ -997,10 +997,12 @@ body.dark-theme {
   height: 10rem;
 }
 
-.contact__area textarea {
-  resize: none;
+.contact__input[type="text"] {
+  /* Adjust padding and vertical alignment */
   padding-top: 1rem;
+  vertical-align: top;
 }
+
 
 .contact__button {
   background-color: var(--first-color);

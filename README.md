@@ -15,7 +15,7 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 
 ## Demo
 
-You can view a live demo of the website [here](https://mdshahil-portfolio.netlify.app/)
+You can view a live demo of the website [here](https://shahil-portfolio-page.netlify.app/)
 
 ## Features
 
